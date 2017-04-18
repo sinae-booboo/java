@@ -1,0 +1,16 @@
+Lego 101;Vilket land har Lego?;Danmark;Sverige;Norge;0
+Beräkningsvetenskap;Ett plus ett?;1;2;3;1
+Cocktail 101;Torr vermouth gröna oliver gin?;Dry martini;Vodka;Aloha;0
+Cat 101;Ragdoll?;Fluffig;Smalis;Kort;0
+IOOPM;Java eller C?;C;Java;Båda;2
+Dance 101;Vad dansar man?;Disco;Salsa;Tango;0
+Arkitekt 101;Sandslott eller betongslott;Sandslott;Betong så klart;Glas;0
+Julkorvstoppning 101;Gris eller nöttkött?;Gris;Nött;Jag är vegan;2
+Riskinvestering 101;Bör man spara CSN?;Ja;Nej;Yolo bränn upp skiten;2
+Konst 101;Vad finns det på Louvren?;Mona Lisa;Bror Hjorts fontän;Carl Larssons hus;0
+Friluftsliv 101;Vad är den snabbaste vägen till itc från ångan?;Vet ej;Move your fat ass;rakt fram typ;1
+Magic 101;Har du tagit fram en duva från en hatt?;Nope;Ja;Djurplågeri;2
+Raggning 101;Bästa raggningsrepliken?;Hej kexet;Har du trillat ner från himlen;Bjud en stor stark;2
+OSPP;Vilken är värst?;Deadlock;Segfault;Busy waiting;0
+Cooking 101;Hur lagar man findus schnitzel?;Stek över öppen eld;Mikra klara;Koka varsamt;1
+Automatateori;Hur gör man en turingmaskin?;Please stop it;Va;Prata med Alan Turing;2

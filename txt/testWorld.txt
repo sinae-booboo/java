@@ -1,0 +1,16 @@
+Room 1; X; Corridor 1; X; X; X; False; X; X
+Corridor 1; Room 2; Corridor 2; Room 3; Room 1; False; False; False; False
+Room 2; X; X; Corridor 1; X; X; X; False; X
+Room 3; Corridor 1; X; X; X; False; X; X; X
+Corridor 2; Room 5; Corridor 3; Room 6; Room 1; False; False; True; False
+Room 4; X; X; Room 5; X; X; X; False; X
+Room 5; Room 4; X; Corridor 2; X; False; X; False; X
+Room 6; Corridor 2; X; X; X; True; X; X; X
+Corridor 3; Room 8; Toilet 1; Room 9; Corridor 2; True; True; False; False
+Toilet 1; X; X; X; Corridor 3; X; X; X; True
+Room 7; X; Toilet 3; Room 8; Toilet 2; X; True; False; True
+Toilet 2; X; Room 7; X; X; X; True; X; X
+Toilet 3; X; X; X; Room 7; X; X; X; True
+Room 8; Room 7; X; Corridor 3; X; False; X; True; X
+Room 9; Corridor 3; X; Room 10; X; False; X; False; X
+Room 10; Room 9; X; X; X; False; X; X; X
